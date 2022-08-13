@@ -10,12 +10,16 @@ function App() {
       <Header />
 
       <main className="main">
-        <Section nome="Saladas" produtos={produtos.entradas} />
-        <hr />
+        <Section nome="Hamburguers" produtos={produtos.Hamburguers} />
+
+        <Section nome="Prensados" produtos={produtos.Prensados} />
+
         <Section
-          nome="Pratos Principais"
-          produtos={produtos.pratosPrincipais}
+          nome="Cachorros Quentes"
+          produtos={produtos["Cachorros Quentes"]}
         />
+
+        <Section nome="Bebidas" produtos={produtos.Bebidas} />
       </main>
 
       <Footer />

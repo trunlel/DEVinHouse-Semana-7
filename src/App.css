@@ -13,3 +13,18 @@
   padding: 20px 200px;
   flex: 1;
 }
+
+h1 {
+  font-size: 50px;
+  margin-top: 40px;
+}
+h2 {
+  font-size: 30px;
+}
+p {
+  font-size: 20px;
+}
+
+.ul {
+  display: block;
+}

@@ -10,7 +10,8 @@
   display: flex;
   align-items: center;
 }
-.ul {
+.ull {
+  list-style: none;
   font-size: 25px;
   display: flex;
   gap: 20px;
