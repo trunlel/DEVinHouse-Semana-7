@@ -1,0 +1,24 @@
+.header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+.ul {
+  font-size: 25px;
+  display: flex;
+  gap: 20px;
+  padding-right: 50px;
+}
+
+.logo {
+  padding-left: 25px;
+  height: 130px;
+  width: 220px;
+}

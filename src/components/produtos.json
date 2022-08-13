@@ -1,0 +1,21 @@
+{
+  "entradas": [
+    {
+      "id": 1,
+      "nome": "Salada",
+      "Descrição": "Salada com folhas"
+    },
+    {
+      "id": 2,
+      "nome": "Salada 2",
+      "Descrição": "Salada com folhas 2"
+    }
+  ],
+  "pratosPrincipais": [
+    {
+      "id": 1,
+      "nome": "Prato",
+      "Descrição": "Prato com folhas"
+    }
+  ]
+}
