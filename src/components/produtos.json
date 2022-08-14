@@ -4,6 +4,7 @@
       "id": 1,
       "nome": "X-Salada",
       "descricao": "Hamburguer artesanal, alface, milho, ervilha, tomate, pepino, queijo, presunto e batata palha",
+      "subCategoria": "Artesanal",
       "valor": "R$ 16,00",
       "tempo": "35 minutos"
     },
@@ -11,6 +12,7 @@
       "id": 2,
       "nome": "X-Galinha",
       "descricao": "Frango em cubos, alface, milho, ervilha, tomate, pepino, queijo, presunto e batata palha",
+      "subCategoria": "Artesanal",
       "valor": "R$ 16,00",
       "tempo": "35 minutos"
     },
@@ -18,58 +20,64 @@
       "id": 3,
       "nome": "X-Coração",
       "descricao": "Corações na chapa, alface, milho, ervilha, tomate, pepino, queijo, presunto e batata palha",
+      "subCategoria": "Artesanal",
       "valor": "R$ 20,00",
       "tempo": "40 minutos"
     },
 
     {
-      "id": 5,
+      "id": 4,
       "nome": "X-Egg",
       "descricao": "Hamburguer artesanal, ovo frito, alface, milho, ervilha, tomate, pepino, queijo, presunto e batata palha",
+      "subCategoria": "Artesanal",
       "valor": "R$ 17,50",
       "tempo": "35 minutos"
     },
     {
-      "id": 4,
+      "id": 5,
       "nome": "X-Burg",
       "descricao": "Hamburguer artesanal, queijo e presunto",
+      "subCategoria": "Artesanal",
       "valor": "R$ 10,00",
       "tempo": "20 minutos"
     }
   ],
   "Prensados": [
     {
-      "id": 2,
+      "id": 6,
       "nome": "Prensado de Bacon",
       "descricao": "Bacon, 2 salsichas, cebola, cenoura, tomate, milho, ervilha, batata palha e queijo",
+      "subCategoria": "Cachorro quente prensado",
       "valor": "R$ 16,00",
       "tempo": "30 minutos"
     },
     {
-      "id": 3,
+      "id": 7,
       "nome": "Prensado de Calabresa",
       "descricao": "Calabresa, 2 salsichas, cebola, cenoura, tomate, milho, ervilha, batata palha e queijo",
+      "subCategoria": "Cachorro quente prensado",
       "valor": "R$ 16,00",
       "tempo": "30 minutos"
     },
     {
-      "id": 1,
+      "id": 8,
       "nome": "Prensado de Frango",
       "descricao": "Frango em cubos, 2 salsichas, cebola, cenoura, tomate, milho, ervilha, batata palha e queijo",
+      "subCategoria": "Cachorro quente prensado",
       "valor": "R$ 14,50",
       "tempo": "30 minutos"
     }
   ],
   "Cachorros Quentes": [
     {
-      "id": 1,
+      "id": 9,
       "nome": "Cachorro Quente Simples",
       "descricao": "Salsichas, cebola, cenoura, tomate, milho, ervilha, batata palha e queijo",
       "valor": "R$ 10,00",
       "tempo": "20 minutos"
     },
     {
-      "id": 2,
+      "id": 10,
       "nome": "Cachorro Quente Duplo",
       "descricao": "2 Salsichas, cebola, cenoura, tomate, milho, ervilha, batata palha e queijo",
       "valor": "R$ 12,50",
@@ -78,19 +86,19 @@
   ],
   "Bebidas": [
     {
-      "id": 2,
+      "id": 11,
       "nome": "Refrigerante 2Lt",
       "descricao": "Fanta, Coca-cola, Guarana e Sprite",
       "valor": "R$ 10,50"
     },
     {
-      "id": 1,
+      "id": 12,
       "nome": "Refrigerante 1Lt",
       "descricao": "Pureza e Laranjinha",
       "valor": "R$ 8,00"
     },
     {
-      "id": 3,
+      "id": 13,
       "nome": "Refrigerante lata",
       "descricao": "Fanta, Coca-cola, Guarana e Sprite",
       "valor": "R$ 4,50"

@@ -20,14 +20,14 @@ export const Footer = () => {
           </i>
         </div>
 
-        <p className="endereco">
-          Palhoça, Santa Catarina
+        <div className="endereco">
+          <p>Palhoça, Santa Catarina</p>
           <hr />
-          190 R. Nossa Sra. dos Navegantes
+          <p>190 R. Nossa Sra. dos Navegantes</p>
           <hr />
-          (48) 9 9801-5805
+          <p>(48) 9 9801-5805</p>
           <br />
-        </p>
+        </div>
       </div>
     </footer>
   );

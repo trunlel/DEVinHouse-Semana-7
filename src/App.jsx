@@ -10,9 +10,17 @@ function App() {
       <Header />
 
       <main className="main">
-        <Section nome="Hamburguers" produtos={produtos.Hamburguers} />
+        <Section
+          nome="Hamburguers"
+          produtos={produtos.Hamburguers}
+          subCategorias={["Artesanal"]}
+        />
 
-        <Section nome="Prensados" produtos={produtos.Prensados} />
+        <Section
+          nome="Prensados"
+          produtos={produtos.Prensados}
+          subCategorias={["Cachorro quente prensado"]}
+        />
 
         <Section
           nome="Cachorros Quentes"
