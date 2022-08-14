@@ -3,4 +3,4 @@
 </h1>
 <p align="center">🚀 Site para uma lanchonete</p>
 
-<h2> Utilizando React  </h2>
+<h3> Nesta aplicação utilizei React com Props e JSON  </h2>
