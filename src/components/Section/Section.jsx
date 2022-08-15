@@ -1,3 +1,4 @@
+import { Fragment } from "react";
 import "./section.css";
 
 export const Section = ({ nome, produtos, subCategorias }) => {
@@ -10,7 +11,7 @@ export const Section = ({ nome, produtos, subCategorias }) => {
       {subCategorias?.length > 0 ? (
         subCategorias.map((sub) => {
           return (
-            <>
+            <Fragment key={sub}>
               <h2 className="sub">{sub}</h2>
               <ul>
                 {produtos
@@ -31,7 +32,7 @@ export const Section = ({ nome, produtos, subCategorias }) => {
                     </li>
                   ))}
               </ul>
-            </>
+            </Fragment>
           );
         })
       ) : (
